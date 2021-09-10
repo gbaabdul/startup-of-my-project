@@ -1,0 +1,103 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    position: fixed;
+}
+li a{
+    margin-left: 100px;
+}
+.welcome{
+    color: rgb(221, 23, 23);
+    font-weight: 500;
+    margin-left: 100px;
+    padding-top: 90px;
+}
+.home{
+    background-image: linear-gradient(lightblue, lightyellow);
+    margin-top: -10px;
+    height: 110vh;
+}
+img{
+    height: 500px;
+}
+.btn{
+    margin-left: 100px;
+}
+.social{
+    margin-left: 100px;
+    size: 50px;
+    margin-top: -300px;
+    color: black;
+}
+.myhome{
+    padding-top: 90px;
+    margin-left: 110px;
+}
+.shop{
+    background-image: linear-gradient(lightblue, lightyellow);
+    margin-top: -40px;
+}
+h6{
+    font-weight: 400;
+}
+footer{
+    background-color: black;
+    height: 40vh;
+    color: white;
+    margin-top: -20px;
+}
+
+.ba{
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.contact{
+    margin-top: 40px;
+}
+.card1 {
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+  .card1:hover{
+      transform: scale(1.1);
+      transition: all 1s;
+  }
+  .card1 h1{
+      font-size: 30px;
+      margin-left: -140px;
+      margin-top: -6px;
+  }
+  .price {
+    color: black;
+    font-size: 22px;
+    margin-top: -20px;
+    margin-left: -240px;
+  }
+  .last{
+      margin-bottom: 90px;
+  }
+  #categories{
+      background-color: pink;
+  }
+  .card1 button {
+    border: 1px solid brown;
+    outline: 0;
+    padding: 12px;
+    color: brown;
+    background-color: pink;
+    text-align: center;
+    cursor: pointer;
+    width: 40%;
+    font-size: 18px;
+    padding-top: -500px;
+  }
+  
+  .card1 button:hover {
+    opacity: 0.7;
+    transform: scale(1);
+  } 
